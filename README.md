@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="start">👋 Hey!, Nice to See you.</h1>
 <h3 align="start">I`m Gowri sankar, Software Engineer from TamilNadu, India, currently living in Srivilliputtur.</h3>
-- 😄 Pronouns: Software Engineer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gowri-sankar-02402" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gowri-sankar-02402" height="30" width="80" /></a>
